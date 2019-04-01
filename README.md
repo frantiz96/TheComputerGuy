@@ -38,4 +38,4 @@ Change the correspondant value in the file "load.clp" to run the debugging mode 
 All the following authors have equally contributed to this project (listed in alphabetical order by surname):
 
 - Tiziano Franza ([github](https://github.com/frantiz96))
-- Davide Lofrese ([github]())
+- Davide Lofrese ([github](https://github.com/davidelofrese))
