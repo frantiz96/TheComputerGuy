@@ -1,0 +1,2952 @@
+#desktop-workstation-1
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	HP Omen 870 005nf
+    Tipologia:  Workstation Desktop
+    Prezzo:	1403,23 euro
+
+    CPU: Intel Quad Core i7 6700 @ 3,4GHz (Turbo Boost a 4,0GHz)
+    HDD: 2 TB (7200 rpm)
+    SSD: 128 GB 
+    RAM: 8 GB DDR4 @ 2133MHz
+    GPU: NVIDIA Geforce GTX 960 (2GB GDDR5)
+
+    SysOp: Windows 10 Pro x64
+
+    Periferiche:  DVD Super Multi
+		  Lettore di Schede SD
+ 	          6x USB 2,0
+                  4x USB 3,0
+		  1x HDMI
+
+    Connettivita':  Wireless 802,11
+
+ +================================================================+
+#desktop-workstation-2
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Dell Alienware Area 51
+    Tipologia:  Workstation Desktop
+    Prezzo:	6179,00 euro
+
+    CPU: Intel Deca Core i9 7900X @ 3,3GHz (Turbo Boost: 4,3GHz)
+    HDD: 2 TB (7200 rpm)
+    SSD: 1 TB 
+    RAM: 64 GB DDR4 @ 2667MHz 
+    GPU: 2x NVIDIA GeForce GTX 1080 Ti (2x 11GB GDDR5X)
+
+    SysOp: Windows 10 Pro x64
+   
+    Raffreddamento a Liquido
+
+    Periferiche:  1x DVD Super Multi
+		  Altoparlanti + Subwoofer
+		  Lettore di Schede SD
+		  4x USB 2,0
+                  6x USB 3,0		  
+
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+
+ +================================================================+
+#desktop-workstation-3
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Dell Precision T5810
+    Tipologia:  Workstation Desktop
+    Prezzo:	1099,00 euro
+
+    CPU: Intel Quad Core Xeon E5 1603V3 @ 2,8GHz 
+    HDD: 500 GB (7200 rpm)
+    RAM: 8 GB DDR4 @ 2400MHz
+    GPU: NVIDIA NVS 310 (1GB GDDR5)
+
+    SysOp: Windows 10 Pro x64
+   
+    Periferiche:  1x Slimline DVD ROM
+		  Altoparlante
+		  Lettore di Schede SD
+		  Supporto per RAID
+		  6x USB 2,0
+                  4x USB 3,0		  
+   
+    Connettivita':  1x Ethernet Port
+
+ +================================================================+
+#desktop-workstation-4
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Lenovo ThinkStation P320
+    Tipologia:  Workstation Desktop
+    Prezzo:	650,32 euro
+
+    CPU: Intel Dual Core i3 7100 @ 3,9GHz 
+    HDD: 1 TB (7200 rpm)
+    RAM: 8 GB DDR4 @ 2400MHz
+    GPU: Intel HD Graphics 630
+
+    SysOp: Windows 10 Pro x64
+   
+    Periferiche:  1x DVD ROM 
+		  Altoparlante
+		  Lettore di Schede SD
+		  Supporto per RAID
+		  2x USB 2,0
+                  6x USB 3,0		  
+		  2x Displayport
+		  1x VGA
+		  1x eSata
+
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#desktop-workstation-5
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	WildRabbit Quadro Workstation
+    Tipologia:  Workstation Desktop
+    Prezzo:	1075,50 euro
+
+    CPU: Intel Dual Core i3 6100 @ 3,7GHz 
+    HDD: 1 TB (7200 rpm)
+    RAM: 16 GB DDR4 @ 3000MHz
+    GPU: NVIDIA GeForce GT 710 (2GB GDDR5)
+
+    SysOp: Windows 10 Pro x64
+   
+    Periferiche:  2x DVD ROM 
+		  Lettore di Schede SD
+		  2x USB 2,0
+                  2x USB 3,0		  
+		  1x HDMI
+		  1x DVI
+		  1x VGA
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+
+ +================================================================+
+#desktop-workstation-6
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Ankermann PC Workstation
+    Tipologia:  Workstation Desktop
+    Prezzo:	349,00 euro
+
+    CPU: AMD Dual Core A4 6300 @ 3,7GHz (Turbo Boost: 3,9GHz)
+    HDD: 2 TB (7200 rpm)
+    RAM: 8 GB DDR3 @ 1600MHz
+    GPU: ATI Radeon HD 8370D onBoard (1GB DDR3)
+
+    SysOp: Windows 10 Pro x64
+   
+    Periferiche:  DVD Writer LG 
+		  Lettore di Schede SD
+		  4x USB 2,0
+                  4x USB 3,0		  
+		  1x HDMI
+		  1x VGA
+
+    Connettivita':  1x Ethernet Port
+	
+ +================================================================+
+#desktop-workstation-7
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Asus Pro Series E810 B0694
+    Tipologia:  Workstation Desktop
+    Prezzo:	689,00 euro
+
+    CPU: Intel Quad Core i7 4785T @ 2,2GHz (Turbo Boost: 3,2GHz) 
+    HDD: 500 GB (7200 rpm)
+    RAM: 16 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics 4600
+
+    SysOp: Windows 8,1 Pro x64
+   
+    Periferiche:  DVD ROM 
+		  2x USB 2,0
+                  2x USB 3,0		  
+		  1x Displayport
+		  1x DVI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+
+ +================================================================+
+#desktop-workstation-8
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Lenovo H50 55
+    Tipologia:  Workstation Desktop
+    Prezzo:	483,45 euro
+
+    CPU: AMD Quad Core A10 8750 @ 3,6GHz (Turbo Boost: 4,0GHz) 
+    HDD: 2 TB (7200 rpm)
+    RAM: 8 GB DDR3 @ 1600MHz
+    GPU: AMD Radeon R7 Series
+
+    SysOp: Windows Server 2012 x64
+   
+    Periferiche:  DVD ROM 
+		  Lettore di Schede SD
+		  4x USB 2,0
+                  2x USB 3,0		  
+		  2x HDMI
+		  2x VGA
+
+    Connettivita':  1x Ethernet Port
+
+ +================================================================+
+#desktop-workstation-9
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	HP Z240
+    Tipologia:  Workstation Desktop
+    Prezzo:	857,56 euro
+
+    CPU: Intel Quad Core i5 6500 @ 3,2GHz (Turbo Boost: 3,6GHz) 
+    HDD: 2 TB (7200 rpm)
+    RAM: 4 GB DDR4 @ 2133MHz
+    GPU: Intel HD Graphics 530
+
+    SysOp: Windows 7 Pro x64
+   
+    Periferiche:  Hp Slim DVD Writer 
+		  Lettore di Schede SD
+		  4x USB 2,0
+                  5x USB 3,0		  
+		  2x DisplayPort
+		  1x DVI
+
+    Connettivita':  1x Ethernet Port
+
+ +================================================================+
+#desktop-workstation-10
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Apple Mac Pro Desktop
+    Tipologia:  Workstation Desktop
+    Prezzo:	9200,00 euro
+
+    CPU: Intel Dodeca Core Xeon E5 2697 @ 2,7GHz (Turbo Boost: 3,5GHz) 
+    SSD: 256 GB 
+    RAM: 32 GB DDR3 @ 1866MHz
+    GPU: 2x AMD FirePro D500 (2x 3GB GDDR5)
+
+    SysOp: Mac OS X Mavericks
+   
+    Periferiche:  4x USB 3,0		  
+		  1x HDMI
+
+    Connettivita':  2x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#desktop-workstation-11
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Fujitsu Celsius J550
+    Tipologia:  Workstation Desktop
+    Prezzo:	764,34 euro
+
+    CPU: Intel Quad Core i5 6500 @ 3,2GHz (Turbo Boost: 3,6GHz) 
+    HDD: 1 TB (7200 rpm)
+    SSD: 128 GB
+    RAM: 8 GB DDR4 @ 1866MHz
+    GPU: Intel HD Graphics 530
+
+    SysOp: Windows 10 Home x64
+   
+    Periferiche:  DVD Super Multi
+		  Lettore di Schede SD
+		  Supporto per RAID
+		  2x USB 2,0		  
+		  7x USB 3,0		  
+		  2x Displayport
+		  1x DVI
+		  1x VGA
+		  1x eSata
+
+    Connettivita':  1x Ethernet Port
+
+ +================================================================+
+#desktop-workstation-12
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Acer Veriton X 2640G
+    Tipologia:  Workstation Desktop
+    Prezzo:	593,14 euro
+
+    CPU: Intel Dual Core i3 6100 @ 3,7GHz
+    HDD: 1 TB (7200 rpm)
+    RAM: 8 GB DDR4 @ 1866MHz
+    GPU: Intel HD Graphics 530
+
+    SysOp: Windows 10 Home x64
+   
+    Periferiche:  DVD Reader
+		  Lettore di Schede SD
+		  6x USB 2,0		  
+		  4x USB 3,0		  
+		  2x Displayport
+		  1x DVI
+		  2x VGA
+		  1x Slot Smartcard
+
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+
+ +================================================================+
+#laptop-workstation-1
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	MSI Workstation WS60 6QH 201FR
+    Tipologia:  Workstation Laptop
+    Prezzo:	1873,11 euro
+
+    CPU: Intel Quad Core i7 6700HQ @ 2,6GHz (Turbo Boost: 3,5GHz)
+    HDD: 1 TB (5400 rpm)
+    RAM: 8 GB DDR4 @ 2133MHz
+    GPU: NVIDIA Quadro M600M (2GB GDDR5)
+
+    Display: LED 15" con risoluzione 1920x1080p (Full HD)
+    SysOp: Windows 10 Pro x64
+    Batteria: 6 celle
+    Peso: 1,9 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  3x USB 3,0
+		  1x USB C
+		  1x HDMI
+ 		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-workstation-2
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Lenovo Thinkpad W520
+    Tipologia:  Workstation Laptop
+    Prezzo:	713,00 euro
+
+    CPU: Intel Quad Core i7 2720QM @ 2,2GHz (Turbo Boost: 3,3GHz)
+    HDD: 500 GB (5400 rpm)
+    RAM: 4 GB DDR3 @ 1333MHz
+    GPU: NVIDIA Quadro 1000 (2GB GDDR5)
+
+    Display: LED 15,6" con risoluzione 1920x1080p (Full HD)
+    SysOp: Windows 10 Home x64
+    Batteria: 9 celle
+    Peso: 1,9 kg
+    
+    Periferiche:  1x Lettore DVD
+		  Lettore di Schede SD
+		  2x USB 3,0
+		  1x USB 2,0
+		  1x HDMI
+		  1x VGA
+		  1x eSata
+		  1x Slot Sim
+		  1x Slot Smartcard
+ 		  
+    Connettivita':  1x Ethernet Port
+    		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-workstation-3
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Dell Precision M4700
+    Tipologia:  Workstation Laptop
+    Prezzo:	1293,00 euro
+
+    CPU: Intel Quad Core i5 7300HQ @ 2,5GHz (Turbo Boost: 3,5GHz)
+    HDD: 500 GB (7200 rpm)
+    RAM: 4 GB DDR4 @ 2400 MHz
+    GPU: NVIDIA Quadro M620 (2GB GDDR5)
+
+    Display: LED 15,6" con risoluzione 1920x1080p (Full HD)
+    SysOp: Windows 10 Pro x64
+    Batteria: 4 celle
+    Peso: 2,2 kg
+    
+    Periferiche:  1x Lettore DVD
+		  Lettore di Schede SD
+		  3x USB 3,0
+		  1x USB C
+		  1x HDMI
+		  1x VGA
+		  1x Slot Sim
+		  1x Slot Smartcard
+ 		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-workstation-4
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Hp Elitebook 8570W
+    Tipologia:  Workstation Laptop
+    Prezzo:	620,00 euro
+
+    CPU: Intel Dual Core i7 2620M @ 2,7GHz (Turbo Boost: 3,4GHz)
+    HDD: 320 GB (7200 rpm)
+    RAM: 12 GB DDR3 @ 1333 MHz
+    GPU: NVIDIA Quadro K1000M (2GB GDDR5)
+
+    Display: LED 15,6" con risoluzione 1600x900p (HD)
+    SysOp: Windows 7 Pro x64
+    Batteria: 8 celle
+    Peso: 3,1 kg
+    
+    Periferiche:  1x Lettore DVD
+		  Lettore di Schede SD
+		  3x USB 2,0
+		  2x USB 3,0
+		  1x DisplayPort
+		  1x VGA
+		  1x Slot Sim
+		  1x Slot Smartcard
+ 		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-workstation-5
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Hp ZBook Studio G4
+    Tipologia:  Workstation Laptop
+    Prezzo:	2332,00 euro
+
+    CPU: Intel Quad Core i7 7700HQ @ 2,8GHz (Turbo Boost: 3,8GHz)
+    SSD: 512 GB 
+    RAM: 16 GB DDR4 @ 2400 MHz
+    GPU: NVIDIA Quadro M1200 (4GB GDDR5)
+
+    Display: LED 15,6" con risoluzione 3840x2160p (4K)
+    SysOp: Windows 10 Pro x64
+    Batteria: 8 celle
+    Peso: 2,1 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  3x USB 3,0
+		  2x USB C
+		  1x HDMI
+		  1x Slot Sim
+		  1x Slot Smartcard
+ 		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-workstation-6
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Lenovo Thinkpad P70
+    Tipologia:  Workstation Laptop
+    Prezzo:	2247,00 euro
+
+    CPU: Intel Dual Core i7 5500U @ 2,4GHz (Turbo Boost: 3,0GHz)
+    HDD: 500 GB (7200 rpm)
+    RAM: 8 GB DDR3L @ 1600 MHz
+    GPU: NVIDIA Quadro M3000M (4GB GDDR5)
+
+    Display: LED 17,3" con risoluzione 1920x1080p (Full HD)
+    SysOp: Windows 7 Pro x64
+    Batteria: 8 celle
+    Peso: 3,6 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  Supporto per RAID
+		  4x USB 3,0
+		  2x USB C
+		  1x Mini DisplayPort
+		  1x HDMI
+		  1x Slot Sim
+		  1x Slot Smartcard
+ 		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-workstation-7
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Asus ZenBook Pro UX501VW US71
+    Tipologia:  Workstation Laptop
+    Prezzo:	1299,00 euro
+
+    CPU: Intel Quad Core i7 6700HQ @ 2,6GHz (Turbo Boost: 3,5GHz)
+    SSD: 512 GB
+    RAM: 16 GB DDR4 @ 2133 MHz
+    GPU: NVIDIA GTX 960M (4GB GDDR5)
+
+    Display: LED 15,6" con risoluzione 3840x2160p (4K) Touch
+    SysOp: Windows 7 Pro x64
+    Batteria: 8 celle
+    Peso: 2,3 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  3x USB 3,0
+		  1x USB C
+		  1x HDMI
+		  1x Slot Sim
+		  1x Slot Smartcard
+ 		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-workstation-8
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Toshiba Tecra Z40T C 10M
+    Tipologia:  Workstation Laptop
+    Prezzo:	1849,00 euro
+
+    CPU: Intel Quad Core i7 6600U @ 2,6GHz (Turbo Boost: 3,4GHz)
+    SSD: 512 GB
+    RAM: 16 GB DDR3L @ 1600 MHz
+    GPU: Intel HD Graphics 520
+
+    Display: LED 14" con risoluzione 1920x1080p (Full HD)
+    SysOp: Windows 7 Pro x64
+    Batteria: 4 celle
+    Peso: 1,6 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  3x USB 3,0
+		  1x HDMI
+		  1x VGA
+		  1x Slot Sim
+		  1x Slot Smartcard
+ 		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-tabletpc-1
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Asus Transformer T101HA GR043T
+    Tipologia:  Tablet PC
+    Prezzo:	274,49 euro
+
+    CPU: Intel Quad Core Atom X5 Z8350 @ 1,44GHz (Turbo Boost: 1,92GHz)
+    SSD: 64 GB (eMMC)
+    RAM: 4 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics 400
+
+    Display: LED 10,1" con risoluzione 1280x800p (HD) Touch
+    SysOp: Windows 10 Pro x64
+    Batteria: 2 celle
+    Peso: 1,0 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  2x USB 2,0
+		  1x HDMI
+		  
+    Connettivita':  Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-tabletpc-2
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Mediacom WinPad U11
+    Tipologia:  Tablet PC
+    Prezzo:	199,00 euro
+
+    CPU: Intel Quad Core Atom X5 Z8300 @ 1,44GHz (Turbo Boost: 1,84GHz)
+    SSD: 32 GB (eMMC)
+    RAM: 2 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics
+
+    Display: LED 11,6" con risoluzione 1920x1080p (Full HD) Touch
+    SysOp: Windows 10 Pro x64
+    Batteria: 2 celle
+    Peso: 0,53 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  2x USB 2,0
+		  1x USB C
+		  1x HDMI
+		  1x Slot Sim
+		  
+    Connettivita':  Wireless 802,11 , 3G
+		    Bluetooth
+
+ +================================================================+
+#laptop-tabletpc-3
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Microsoft Surface Book
+    Tipologia:  Tablet PC
+    Prezzo:	3299,00 euro
+
+    CPU: Intel Quad Core i7 6th Gen
+    SSD: 1 TB
+    RAM: 16 GB DDR4 @ 2133MHz
+    GPU: NVIDIA GeForce GTX 965M (4GB GDDR5)
+
+    Display: LED 13,5" con risoluzione 3000x2000p (Quad HD) Touch
+    SysOp: Windows 10 Pro x64
+    Batteria: 8 celle
+    Peso: 1,6 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  1x Sensore di Luce Ambientale
+		  2x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-tabletpc-4
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Microsoft Surface Pro 4
+    Tipologia:  Tablet PC
+    Prezzo:	820,00 euro
+
+    CPU: Intel Dual Core M 5Y10 @ 800MHz (Turbo Boost: 2,0GHz)
+    SSD: 128 GB
+    RAM: 4 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics 515
+
+    Display: LED 12,3" con risoluzione 2736x1824p (2K) Touch
+    SysOp: Windows 10 Pro x64
+    Batteria: 4 celle
+    Peso: 0,8 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  1x Sensore di Luce Ambientale
+		  1x USB 3,0
+		  1x Mini DisplayPort
+		  
+    Connettivita':  Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-tabletpc-5
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Lenovo Ideapad MIIX 510 12ISK
+    Tipologia:  Tablet PC
+    Prezzo:	640,40 euro
+
+    CPU: Intel Dual Core i5 6200U @ 2,3GHz (Turbo Boost: 2,8GHz)
+    SSD: 128 GB
+    RAM: 4 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics 520
+
+    Display: LED 12,3" con risoluzione 1920x1080p (Full HD) Touch
+    SysOp: Windows 10 Pro x64
+    Batteria: 4 celle
+    Peso: 0,9 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  1x Sensore di Luce Ambientale
+		  1x USB 3,0
+		  1x USB C
+		  1x Mini DisplayPort
+		  
+    Connettivita':  Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-tabletpc-6
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Acer Aspire Switch Alpha 12 S
+    Tipologia:  Tablet PC
+    Prezzo:	654,56 euro
+
+    CPU: Intel Dual Core M3 6Y30 @ 900MHz (Turbo Boost: 2,2GHz)
+    SSD: 128 GB
+    RAM: 4 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics 515
+
+    Display: LED 12,5" con risoluzione 1920x1080p (Full HD) Touch
+    SysOp: Windows 10 Pro x64
+    Batteria: 4 celle
+    Peso: 1,4 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  1x Sensore di Luce Ambientale
+		  2x USB 3,0
+		  1x USB C
+		  1x HDMI
+		  
+    Connettivita':  Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-tabletpc-7
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Asus Transformer T305CA GW052R
+    Tipologia:  Tablet PC
+    Prezzo:	1347,57 euro
+
+    CPU: Intel Dual Core i7 7Y75 @ 1,3GHz (Turbo Boost: 3,6GHz)
+    SSD: 512 GB
+    RAM: 8 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics 615
+
+    Display: LED 12,6" con risoluzione 2880x1620p (Quad HD) Touch
+    SysOp: Windows 10 Pro x64
+    Batteria: 4 celle
+    Peso: 0,7 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  1x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-tabletpc-8
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Asus Transformer T303UA GN060R 
+    Tipologia:  Tablet PC
+    Prezzo:	974,72 euro
+
+    CPU: Intel Dual Core i5 6200U @ 2,3GHz (Turbo Boost: 2,8GHz)
+    SSD: 256 GB
+    RAM: 4 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics 520
+
+    Display: LED 12,6" con risoluzione 2880x1620p (Quad HD) Touch
+    SysOp: Windows 10 Pro x64
+    Batteria: 4 celle
+    Peso: 0,7 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  1x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-tabletpc-9
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	HP Pavilion x360 13 u116nl 
+    Tipologia:  Tablet PC
+    Prezzo:	610,00 euro
+
+    CPU: Intel Dual Core i3 7100U @ 2,4GHz
+    HDD: 500 GB (5400 rpm)
+    RAM: 4 GB DDR4 @ 2133MHz
+    GPU: Intel HD Graphics 620
+
+    Display: LED 13,3" con risoluzione 1920x1080p (Full HD) Touch
+    SysOp: Windows 10 Pro x64
+    Batteria: 4 celle
+    Peso: 1,6 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  1x USB 2,0
+		  2x USB 3,1
+		  1x HDMI
+		  1x Slot Sim
+		  
+    Connettivita':  Wireless 802,11 , 3G
+		    Bluetooth
+
+ +================================================================+
+#laptop-tabletpc-10
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	HP Spectre x360 15 ap004ng
+    Tipologia:  Tablet PC
+    Prezzo:	1390,00 euro
+
+    CPU: Intel Dual Core i5 6200U @ 2,3GHz (Turbo Boost: 2,8GHz)
+    SSD: 256 GB 
+    RAM: 8 GB DDR4 @ 2133MHz
+    GPU: Intel HD Graphics 520
+
+    Display: LED 15,6" con risoluzione 3840x2160p (4K) Touch
+    SysOp: Windows 10 Pro x64
+    Batteria: 6 celle
+    Peso: 3,0 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  1x USB 2,0
+		  2x USB 3,1
+		  1x HDMI
+		  1x Slot Sim
+		  
+    Connettivita':  Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#desktop-allinone-1
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Apple iMac 27" Retina 2016
+    Tipologia:  All in One
+    Prezzo:	6299,00 euro
+
+    CPU: Intel Quad Core i7 4th Gen @ 4,2GHz (Turbo Boost: 4,5GHz)
+    SSD: 2 TB 
+    RAM: 64 GB DDR4 @ 2400MHz
+    GPU: AMD Radeon Pro 580 (8GB GDDR5)
+
+    Display: LED Retina 27" con risoluzione 5120x2880p (5K)
+    SysOp: Mac OS X 10,11 El Capitan
+    
+    Periferiche:  Lettore di Schede SD
+		  4x USB 3,0
+		  2x USB C
+		  1x Mini DisplayPort
+
+    Connettivita':  Wireless 802,11
+		    Bluetooth
+		  
+ +================================================================+
+#desktop-allinone-2
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Asus Zen Aio Z240ICGK GC064X 
+    Tipologia:  All in One
+    Prezzo:	1249,00 euro
+
+    CPU: Intel Quad Core i5 6400T @ 2,2GHz (Turbo Boost: 2,8GHz)
+    HDD: 1 TB (7200 rpm)
+    RAM: 4 GB DDR4 @ 2133MHz
+    GPU: NVIDIA GTX 960M (2GB GDDR5)
+
+    Display: 23,8" con risoluzione 1920x1080p (Full HD)
+    SysOp: Windows 10 Home x64
+    
+    Periferiche:  Lettore di Schede SD
+		  1x USB 2,0
+		  4x USB 3,0
+		  1x USB 3,1
+		  1x USB C
+		  1x DisplayPort
+		  1x HDMI
+
+    Connettivita':  Wireless 802,11
+		    Bluetooth
+		  
+ +================================================================+
+#desktop-allinone-3
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Acer Veriton Z4640G
+    Tipologia:  All in One
+    Prezzo:	805,96 euro
+
+    CPU: Intel Quad Core i5 6400 @ 2,7GHz (Turbo Boost: 3,3GHz)
+    HDD: 1 TB (7200 rpm)
+    RAM: 4 GB DDR4 @ 2133MHz
+    GPU: Intel HD Graphics 530
+
+    Display: 21,5" con risoluzione 1920x1080p (Full HD)
+    SysOp: Windows 7 Pro x64
+    
+    Periferiche:  1x DVD Reader
+		  Lettore di Schede SD
+		  2x USB 2,0
+		  4x USB 3,1
+		  1x DisplayPort
+		  1x HDMI
+		  1x VGA
+
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+		  
+ +================================================================+
+#desktop-allinone-4
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Acer Aspire AC22 760
+    Tipologia:  All in One
+    Prezzo:	649,00 euro
+
+    CPU: Intel Dual Core i3 6100U @ 2,3GHz
+    HDD: 500 GB (7200 rpm)
+    RAM: 4 GB DDR4 @ 2133MHz
+    GPU: Intel HD Graphics 520
+
+    Display: 21,5" con risoluzione 1920x1080p (Full HD)
+    SysOp: Windows 10 Home x64
+    
+    Periferiche:  Lettore di Schede SD
+		  2x USB 2,0
+		  2x USB 3,0
+		  1x DisplayPort
+		  1x HDMI
+		  1x VGA
+
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+		  
+ +================================================================+
+#desktop-allinone-5
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Hp 20 C020Nl 
+    Tipologia:  All in One
+    Prezzo:	475,30 euro
+
+    CPU: AMD Quad Core E2 7110 @ 1,8GHz
+    HDD: 1 TB (7200 rpm)
+    RAM: 4 GB DDR3L @ 1600MHz
+    GPU: AMD Radeon R2
+
+    Display: 21,5" con risoluzione 1920x1080p (Full HD)
+    SysOp: Windows 10 Home x64
+    
+    Periferiche:  DVD Reader
+		  2x USB 2,0
+		  2x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+		  
+ +================================================================+
+#desktop-allinone-6
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Hp Envy Curved 34 B010Nl
+    Tipologia:  All in One
+    Prezzo:	2221,99 euro
+
+    CPU: Intel Quad Core i7 7700T @ 2,9GHz (3,8GHz)
+    HDD: 2 TB (5400 rpm)
+    SSD: 256 GB 
+    RAM: 16 GB DDR4 @ 2133MHz
+    GPU: NVIDIA GeForce GTX 950M (4GB GDDR5)
+
+    Display: LED 34" Curvo con risoluzione 3440x1440p (4K)
+    SysOp: Windows 10 Home x64
+    
+    Periferiche:  Lettore di Schede SD
+		  5x USB 3,0
+		  2x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+		  
+ +================================================================+
+#desktop-allinone-7
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Acer Aspire AZ1 612
+    Tipologia:  All in One
+    Prezzo:	184,50 euro
+
+    CPU: Intel Dual Core Celeron J3060 @ 1,6GHz (Turbo Boost: 2,5GHz)
+    HDD: 500 GB (5400 rpm)
+    RAM: 4 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics 400
+
+    Display: LCD 19,5" con risoluzione 1600x900p (HD)
+    SysOp: Windows 10 Home x64
+    
+    Periferiche:  DVD Super 8X Multi DL drive
+		  Lettore di Schede SD
+		  2x USB 2,0
+		  1x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		  
+ +================================================================+
+#desktop-allinone-8
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Fujitsu Esprimo X913
+    Tipologia:  All in One
+    Prezzo:	914,40 euro
+
+    CPU: Intel Dual Core i3 3220T @ 2,8GHz
+    HDD: 500 GB (7200 rpm)
+    RAM: 8 GB DDR3 @ 1600MHz
+    GPU: Intel HD Graphics 2500
+
+    Display: LED 23" con risoluzione 1920x1080p (Full HD)
+    SysOp: Windows 10 Home x64
+    
+    Periferiche:  DVD Super 8X Multi DL drive
+		  Lettore di Schede SD
+		  2x USB 2,0
+		  4x USB 3,0
+		  1x DVI
+		  1x Slot Smartcard
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#desktop-allinone-9
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Dell OptiPlex 3050
+    Tipologia:  All in One
+    Prezzo:	960,55 euro
+
+    CPU: Intel Quad Core i5 7500T @ 2,7GHz (Turbo Boost: 3,3GHz)
+    SSD: 500 GB (7200 rpm)
+    RAM: 4 GB DDR4 @ 2400MHz
+    GPU: Intel HD Graphics 630
+
+    Display: LED 19,5" con risoluzione 1600x900p (HD)
+    SysOp: Windows 10 Pro x64
+    
+    Periferiche:  DVD Reader
+		  Lettore di Schede SD
+		  1x Sensore di Luce Ambientale
+		  2x USB 3,0
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+
+ +================================================================+
+#desktop-allinone-10
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Nilox All in One IPS 24"
+    Tipologia:  All in One
+    Prezzo:	758,36 euro
+
+    CPU: Intel Dual Core i3 6100T @ 3,2GHz
+    SSD: 240 GB 
+    RAM: 4 GB DDR4 @ 2166MHz
+    GPU: Intel HD Graphics 530
+
+    Display: LED 24" con risoluzione 1920x1080p (Full HD)
+    SysOp: Windows 10 Home x64
+    
+    Periferiche:  1x USB 2,0
+		  4x USB 3,0
+		  1x HDMI
+		  1x VGA
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-netbook-1
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Prixton PC14
+    Tipologia:  Netbook
+    Prezzo:	174,95 euro
+
+    CPU: Intel Quad Core Atom Z3735F @ 1,3GHz (Turbo Boost: 1,8GHz)
+    SSD: 32 GB (eMMC)
+    RAM: 2 GB DDR3L @ 1333MHz
+    GPU: Intel HD Graphics
+    
+    Display: LED 14,1" con risoluzione 1366x768p (HD)
+    Batteria: 6 celle
+    SysOp: Windows 10 Home x32
+    Peso: 1,80 kg
+    
+    Periferiche:  Lettore di Schede MicroSD
+		  2x USB 2,0
+		  1x HDMI
+		  1x Slot Sim
+		  1x Slot Smartcard
+		  
+    Connettivita':  Wireless 802,11 , 3G
+		   
+ +================================================================+
+#laptop-netbook-2
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Asus 1011CX Netbook Eee PC
+    Tipologia:  Netbook
+    Prezzo:	119,00 euro
+
+    CPU: Intel Dual Core Atom N2600 @ 1,6GHz (Turbo Boost: 1,8GHz)
+    HDD: 320 GB (7200 rpm)
+    RAM: 1 GB DDR3
+    GPU: Integrated
+    
+    Display: LED 10,1" con risoluzione 1024x600p (HD)
+    Batteria: 6 celle
+    SysOp: Windows 7 Starter x32
+    Peso: 1,25 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  2x USB 2,0
+		  1x HDMI
+		  1x VGA
+    
+    Connettivita':  Wireless 802,11
+		    Bluetooth
+		   
+ +================================================================+
+#laptop-netbook-3
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Acer CB3 131 C0ED 
+    Tipologia:  Netbook Chromebook
+    Prezzo:	286,44 euro
+
+    CPU: Intel Dual Core Celeron N2840 @ 2,2GHz (Turbo Boost: 2,6GHz)
+    SSD: 32 GB (eMMC)
+    RAM: 4 GB DDR3L @ 1333MHz
+    GPU: Intel HD Graphics
+    
+    Display: LED 11,6" con risoluzione 1366x768p (HD)
+    Batteria: 4 celle
+    SysOp: Chrome OS
+    Peso: 1,1 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  1x USB 2,0
+		  1x USB 3,0
+		  1x HDMI
+		  1x Slot Sim
+		  
+    Connettivita':  Wireless 802,11
+		   
+ +================================================================+
+#laptop-netbook-4
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	HP Stream 13 c100nl 
+    Tipologia:  Netbook 
+    Prezzo:	376,89 euro
+
+    CPU: Intel Dual Core Celeron N3050 @ 1,6GHz (Turbo Boost: 2,2GHz)
+    SSD: 32 GB (eMMC)
+    RAM: 2 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics
+    
+    Display: LED 13,3" con risoluzione 1366x768p (HD)
+    Batteria: 4 celle
+    SysOp: Windows 10 Home x32
+    Peso: 1,6 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  1x USB 2,0
+		  1x HDMI
+		  
+    Connettivita':  Wireless 802,11
+		   
+ +================================================================+
+#laptop-netbook-5
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Mediacom SmartBook 11
+    Tipologia:  Netbook 
+    Prezzo:	145,99 euro
+
+    CPU: Intel Quad Core Atom Z3735F @ 1,3GHz (Turbo Boost: 1,8GHz)
+    SSD: 32 GB (eMMC)
+    RAM: 2 GB DDR3L @ 1333MHz
+    GPU: Intel HD Graphics
+    
+    Display: LED 10,6" con risoluzione 1366x768p (HD)
+    Batteria: 4 celle
+    SysOp: Windows 10 Home x32
+    Peso: 0,9 kg
+    
+    Periferiche:  Lettore di Schede MicroSD
+		  2x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  Wireless 802,11
+		   
+ +================================================================+
+#laptop-netbook-6
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Lenovo IdeaPad S21e 20
+    Tipologia:  Netbook 
+    Prezzo:	210,00 euro
+
+    CPU: Intel Dual Core Celeron N2840 @ 2,2GHz (Turbo Boost: 2,6GHz)
+    SSD: 32 GB (eMMC)
+    RAM: 2 GB DDR3L @ 1333MHz
+    GPU: Intel HD Graphics
+    
+    Display: LED 11,6" con risoluzione 1366x768p (HD)
+    Batteria: 4 celle
+    SysOp: Windows 8,1 Home x32
+    Peso: 1,3 kg
+    
+    Periferiche:  Lettore di Schede MicroSD
+		  2x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		   
+ +================================================================+
+#laptop-netbook-7
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Lenovo Ideapad Flex 10
+    Tipologia:  Netbook 
+    Prezzo:	200,00 euro
+
+    CPU: Intel Dual Core Celeron N2806 @ 1,6GHz (Turbo Boost: 2,0GHz)
+    HDD: 320 GB (5400 rpm)
+    RAM: 2 GB DDR3L @ 1066MHz
+    GPU: Intel HD Graphics
+    
+    Display: LCD 10,1" con risoluzione 1366x768p (HD) Touch
+    Batteria: 4 celle
+    SysOp: Windows 8,1 Home x32
+    Peso: 1,2 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  1x USB 2,0
+		  1x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+		   
+ +================================================================+
+#laptop-netbook-8
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Lenovo IdeaPad S100 M65D2UK
+    Tipologia:  Netbook 
+    Prezzo:	303,81 euro
+
+    CPU: Intel Quad Core Atom Z3735F @ 1,3GHz (Turbo Boost: 1,8GHz)
+    HDD: 320 GB (7200 rpm)
+    RAM: 1 GB DDR3L @ 1333MHz
+    GPU: Intel HD Graphics
+    
+    Display: LCD 10,1" con risoluzione 1024x600p (HD) 
+    Batteria: 6 celle
+    SysOp: Windows 10 Home x32
+    Peso: 1,3 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  3x USB 2,0
+		  1x VGA
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11 , 3G
+		    Bluetooth
+		   
+ +================================================================+
+#laptop-netbook-9
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Samsung NC110 AM4UK
+    Tipologia:  Netbook 
+    Prezzo:	145,68 euro
+
+    CPU: Intel Dual Core Atom N550 @ 1,5GHz 
+    HDD: 250 GB (7200 rpm)
+    RAM: 1 GB DDR3
+    GPU: Integrated
+    
+    Display: LCD 10,1" con risoluzione 1024x600p (HD) 
+    Batteria: 4 celle
+    SysOp: Windows 7 Starter x32
+    Peso: 2,0 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  3x USB 2,0
+		  1x VGA 	
+
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11 , 3G
+		   
+ +================================================================+
+#laptop-gaming-1
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	HoMei HM6D5
+    Tipologia:  Laptop Gaming
+    Prezzo:	899,99 euro
+
+    CPU: Intel Quad Core i5 7300HQ @ 2,5GHz (Turbo Boost: 3,5GHz)
+    HDD: 1 TB @ 5400 rpm
+    SSD: 256 GB
+    RAM: 12 GB DDR4 @ 2400MHz
+    GPU: NVIDIA Geforce GTX 1050 (2GB GDDR5)    
+
+    Display: LED 15,6" con risoluzione 1920x1080p (Full HD)
+    Batteria: 6 celle
+    SysOp: Windows 10
+    Peso: 2,5 kg
+    
+    Periferiche:  3x USB 3,0
+		  1x HDMI
+    
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-gaming-2
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Alienware 13
+    Tipologia:  Laptop Gaming
+    Prezzo:	2334,00 euro
+
+    CPU: Intel Quad Core i7 7700HQ @ 2,8GHz (Turbo Boost: 3,8GHz)
+    HDD: 1 TB @ 5400 rpm
+    SSD: 128 GB
+    RAM: 32 GB DDR4 @ 2400MHz
+    GPU: NVIDIA Geforce GTX 1060 (4GB GDDR5)
+
+    Display: OLED 13,3" con risoluzione 2560x1440p (Quad HD)
+    Batteria: 9 celle
+    SysOp: Windows 10 Home x64
+    Peso: 2,6 kg
+    
+    Periferiche:  3x USB 3,0
+		  1x USB C
+		  1x HDMI
+		  1x Mini DisplayPort
+    
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11 
+		    Bluetooth
+		  
+ +================================================================+
+#laptop-gaming-3
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	ROG GX800VH
+    Tipologia:  Laptop Gaming
+    Prezzo:	2719,99 euro
+
+    CPU: Intel Quad Core i7 7820HK @ 2,9GHz (Turbo Boost: 3,9GHz)
+    SSD: 3x512 GB
+    RAM: 64 GB DDR4 @ 2400MHz
+    GPU: 2x NVIDIA Geforce GTX 1080 Sli (2x4GB GDDR5)
+
+    Display: OLED 18,4" con risoluzione 3840x2160p (4K)
+    Batteria: 9 celle
+    SysOp: Windows 10 Home x64
+    Peso: 5,7 kg
+    
+    Raffreddamento a Liquido,
+
+    Periferiche:  Lettore di Schede SD
+		  Altoparlanti
+		  3x USB 3,0
+		  2x USB C
+		  1x DisplayPort
+		  1x HDMI
+		  1x Mini DisplayPort
+    
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+		  
+ +================================================================+
+#laptop-gaming-4
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	MSI GL62
+    Tipologia:  Laptop Gaming
+    Prezzo:	1049,00 euro
+
+    CPU: Intel Quad Core i5 7300HQ @ 2,5GHz (Turbo Boost: 3,5GHz)
+    HDD: 1 TB @ 7200 rpm
+    RAM: 8 GB DDR4 @ 2400MHz
+    GPU: NVIDIA Geforce GTX 1050 (2GB GDDR5)
+
+    Display: LED 15,6" con risoluzione 1920x1080p (Full HD)
+    Batteria: 9 celle
+    SysOp: Windows 10 Home x64
+    Peso: 2,4 kg
+    
+    Periferiche:  Super Multi DVD
+		  Lettore di Schede SD
+		  Altoparlanti
+		  1x USB 2,0
+		  2x USB 3,0
+		  1x HDMI
+		  1x Mini DisplayPort
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    
+ +================================================================+
+#laptop-gaming-5
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Asus X541UV XO111T
+    Tipologia:  Laptop Gaming
+    Prezzo:	549,00 euro
+
+    CPU: Intel Dual Core i5 6198DU @ 2,3GHz (Turbo Boost: 2,8GHz)
+    HDD: 1 TB @ 5400 rpm
+    RAM: 4 GB DDR4 @ 2133MHz
+    GPU: NVIDIA Geforce GTX 920MX (2GB GDDR5)
+
+    Display: LED 15,6" con risoluzione 1366x768p (HD)
+    Batteria: 6 celle
+    SysOp: Windows 10 Home x64
+    Peso: 2 kg
+    
+    Periferiche:  Super Multi DVD
+		  Altoparlanti
+		  1x USB 2,0
+		  1x USB 3,0
+		  1x USB C
+		  1x HDMI
+		  1x VGA
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+		    
+ +================================================================+
+#laptop-gaming-6
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	ROG GL702VM BA135T
+    Tipologia:  Laptop Gaming
+    Prezzo:	1439,00 euro
+
+    CPU: Intel Quad Core i7 7700HQ @ 2,8GHz (Turbo Boost: 3,8GHz)
+    HDD: 1 TB @ 7200 rpm
+    SSD: 256 GB
+    RAM: 16 GB DDR4 @ 2400MHz
+    GPU: NVIDIA Geforce GTX 1060 (6GB GDDR5)
+
+    Display: LED 17,3" con risoluzione 1920x1080p (HD)
+    Batteria: 4 celle
+    SysOp: Windows 10 Pro x64
+    Peso: 2,7 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  Altoparlanti
+		  3x USB 3,0
+		  1x HDMI
+		  1x Mini DisplayPort
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    
+ +================================================================+
+#laptop-gaming-7
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Razer Blade PRO Laptop
+    Tipologia:  Laptop Gaming
+    Prezzo:	1954,00 euro
+
+    CPU: Intel Quad Core i7 6700HQ @ 2,6GHz (Turbo Boost: 3,5GHz)
+    SSD: 1 TB
+    RAM: 32 GB DDR4 @ 2133MHz
+    GPU: NVIDIA Geforce GTX 1080 (8GB GDDR5)
+
+    Display: LED 17,3" con risoluzione 3840x2160p (4K)
+    Batteria: 8 celle
+    SysOp: Windows 10 Pro x64
+    Peso: 2,7 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  Altoparlanti
+		  3x USB 3,0
+		  1x USB C
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+		    
+ +================================================================+
+#laptop-gaming-8
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Hp OMEN 17 w102nl
+    Tipologia:  Laptop Gaming
+    Prezzo:	1716,00 euro
+
+    CPU: Intel Quad Core i7 6700HQ @ 2,6GHz (Turbo Boost: 3,5GHz)
+    HDD: 1 TB (7200 rpm)
+    SSD: 256 GB
+    RAM: 16 GB DDR4 @ 2133MHz
+    GPU: NVIDIA Geforce GTX 1070A (8GB GDDR5)
+
+    Display: WLED 17,3" con risoluzione 1920x1080p (Full HD)
+    Batteria: 6 celle
+    SysOp: Windows 10 Pro x64
+    Peso: 3,4 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  Altoparlanti
+		  3x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+		    
+ +================================================================+
+#laptop-gaming-9
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Lenovo Legion Y520
+    Tipologia:  Laptop Gaming
+    Prezzo:	1113,81 euro
+
+    CPU: Intel Quad Core i5 7300HQ @ 2,5GHz (Turbo Boost: 3,5GHz)
+    HDD: 1 TB (7200 rpm)
+    RAM: 8 GB DDR4 @ 2400MHz
+    GPU: NVIDIA Geforce GTX 1050 (2GB GDDR5)
+
+    Display: WLED 15,6" con risoluzione 1920x1080p (Full HD)
+    Batteria: 6 celle
+    SysOp: Windows 10 Pro x64
+    Peso: 2,4 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  Altoparlanti
+		  1x USB 2,0
+		  2x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    
+ +================================================================+
+#desktop-gaming-1
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Acer Predator G6 710
+    Tipologia:  Desktop Gaming
+    Prezzo:	977,51 euro
+
+    CPU: Intel Quad Core i7 6700 @ 3,4GHz (Turbo Boost: 4,0GHz)
+    HDD: 2 TB @ 7200 rpm
+    SSD: 128 GB 
+    RAM: 12 GB DDR4 @ 2133MHz 
+    GPU: NVIDIA Geforce GTX 980 (4GB GDDR5)
+
+    SysOp: Windows 10 Pro x64
+    
+    Periferiche:  Super Multi Drive DVD Reader 16X 
+		  Lettore di Schede SD
+		  2x USB 2,0
+		  6x USB 3,0
+		  1x HDMI
+		  1x DisplayPort
+    
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		  
+ +================================================================+
+#desktop-gaming-2
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	VIBOX Killstreak GS7TX 360
+    Tipologia:  Desktop Gaming
+    Prezzo:	2159,95 euro
+
+    CPU: Intel Quad Core i7 7700 @ 3,6GHz (Turbo Boost: 4,20GHz)
+    HDD: 2 TB (7200 rpm)
+    SSD: 500 GB
+    RAM: 32 GB DDR4 @ 2133MHz
+    GPU: NVIDIA Geforce GTX 1080Ti (11GB GDDR5)
+
+    Display: 3x LED 21,5" con risoluzione 1920x1080 (Full HD)
+    SysOp: Windows 10 Pro x64
+    
+    Periferiche:  4x USB 2,0
+		  5x USB 3,0
+		  1x HDMI
+		  1x DisplayPort
+
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		  
+ +================================================================+
+#desktop-gaming-3
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Medion S91
+    Tipologia:  Desktop Gaming
+    Prezzo:	756,00 euro
+
+    CPU: Intel Quad Core i7 6700 @ 3,4GHz (Turbo Boost: 4,0GHz)
+    HDD: 2 TB (7200 rpm)
+    SSD: 128 GB
+    RAM: 16 GB DDR4 @ 2133MHz
+    GPU: NVIDIA Geforce GTX 750 (2GB GDDR5)
+
+    SysOp: Windows 10 Pro x64
+    
+    Periferiche:  2x USB 2,0
+		  6x USB 3,0
+		  1x HDMI
+		  1x DVI
+		  1x Mini DisplayPort
+
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		  
+ +================================================================+
+#desktop-gaming-4
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	ROG G20AJ IT004S
+    Tipologia:  Desktop Gaming
+    Prezzo:	1535,53 euro
+
+    CPU: Intel Quad Core i7 4790 @ 3,6GHz (Turbo Boost: 4,0GHz)
+    HDD: 1 TB (7200 rpm)
+    SSD: 128 GB
+    RAM: 16 GB DDR3 @ 1600MHz
+    GPU: NVIDIA Geforce GTX 970 (4GB GDDR5)
+
+    SysOp: Windows 8,1 Home x64
+    
+    Periferiche:  Lettore DVD
+		  4x USB 2,0
+		  2x USB 3,0
+		  1x Display Port
+		  1x HDMI
+		  2x DVI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		  
+ +================================================================+
+#desktop-gaming-5
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Hp OMEN 880 012nl
+    Tipologia:  Desktop Gaming
+    Prezzo:	1949,99 euro
+
+    CPU: Intel Quad Core i7 7700K @ 4,2GHz (Turbo Boost: 4,5GHz)
+    HDD: 1 TB (7200 rpm)
+    SSD: 256 GB
+    RAM: 16 GB DDR4 @ 2400MHz
+    GPU: NVIDIA GeForce GTX 1070A (8GB GDDR5)
+
+    SysOp: Windows 10 Home x64
+    
+    Raffreddamento a Liquido.
+
+    Periferiche:  Lettore DVD
+		  6x USB 3,0
+		  2x USB C
+		  1x DisplayPort
+		  1x HDMI
+		  1x DVI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		  
+ +================================================================+
+#desktop-gaming-6
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	MSI Nightblade X2B
+    Tipologia:  Desktop Gaming
+    Prezzo:	1367,38 euro
+
+    CPU: Intel Quad Core i5 6400K @ 2,7GHz (Turbo Boost: 3,3GHz)
+    HDD: 2 TB (7200 rpm)
+    RAM: 8 GB DDR4 @ 2133MHz
+    GPU: NVIDIA GeForce GTX 1070 Armor (8GB GDDR5)
+
+    SysOp: Windows 10 Pro x64
+    
+    Periferiche:  DVD Super Multi
+		  4x USB 2,0
+		  6x USB 3,0
+		  1x USB C
+		  1x DisplayPort
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		  
+ +================================================================+
+#desktop-gaming-7
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	VIBOX Submission
+    Tipologia:  Desktop Gaming
+    Prezzo:	1289,00 euro
+
+    CPU: AMD Octa Core FX 8300 @ 3,3GHz (Turbo Boost: 4,2GHz)
+    HDD: 3 TB (5400 rpm)
+    SSD: 120 GB
+    RAM: 16 GB DDR3 @ 1600MHz
+    GPU: NVIDIA GeForce GTX 1060 (3GB GDDR5)
+
+    Display: LED 21,5" con risoluzione 1920x1080 (Full HD)
+    SysOp: Windows 10 Pro x64
+    
+    Raffreddamento a Liquido.
+
+    Periferiche:  DVD Super Multi
+		  6x USB 3,0
+		  1x DisplayPort
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		  
+ +================================================================+
+#desktop-gaming-8
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Alienware Aurora
+    Tipologia:  Desktop Gaming
+    Prezzo:	1019,00 euro
+
+    CPU: Intel Quad Core i5 7400 @ 3,0GHz (Turbo Boost: 3,5GHz)
+    HDD: 1 TB (7200 rpm)
+    SSD: 120 GB
+    RAM: 8 GB DDR4 @ 2400MHz
+    GPU: AMD Radeon RX 560 (2GB GDDR5)
+
+    Display: LED 21,5" con risoluzione 1920x1080 (Full HD)
+    SysOp: Windows 10 Home x64
+    
+    Periferiche:  DVD Super Multi
+		  6x USB 2,0
+		  7x USB 3,0
+		  2x USB 3,1
+		  1x DisplayPort
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#desktop-gaming-9
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Alienware AW Aurora R6 KBL
+    Tipologia:  Desktop Gaming
+    Prezzo:	5608,00 euro
+
+    CPU: Intel Quad Core i7 7700K @ 4,2GHz (Turbo Boost: 4,5GHz)
+    HDD: 2 TB @ 7200 rpm
+    SSD: 1 TB
+    RAM: 64 GB DDR4 @ 2400MHz
+    GPU: 2x NVIDIA Geforce GTX Titan X Pascal Sli (2x12GB GDDR5)
+
+    SysOp: Windows 10 Pro x64
+
+    Raffreddamento a Liquido.
+    
+    Periferiche:  6x USB 2,0
+		  7x USB 3,0
+		  2x USB 3,1
+		  1x DisplayPort
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#desktop-1
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Dell Vostro 3268
+    Tipologia:  Desktop
+    Prezzo:	416,23 euro
+
+    CPU: Intel Dual Core i3 7100 3,9GHz
+    HDD: 500 GB @ 7200 rpm
+    RAM: 4 GB DDR4 @ 2400MHz
+    GPU: Intel HD Graphics 630
+
+    SysOp: Windows 10 Home x32
+    
+    Periferiche:  Lettore di Schede SD
+    		  Lettore DVD
+    		  4x USB 2,0
+		  2x USB 3,0
+		  1x HDMI
+		  1x VGA
+
+    Connettivita':  1x Ethernet Port
+		  
+ +================================================================+
+#desktop-2
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Lenovo Ideacentre 300 20ISH
+    Tipologia:  Desktop
+    Prezzo:	776,89 euro
+
+    CPU: Intel Quad Core i7 6700 @ 3,4GHz (Turbo Boost: 4,00GHz)
+    HDD: 1 TB @ 7200 rpm
+    RAM: 8 GB DDR4 @ 2133MHz
+    GPU: NVIDIA Geforce GT 730 (2GB DDR3)
+
+    SysOp: Windows 10 Home x64
+    
+    Periferiche:  Lettore di Schede SD
+    		  Super Multi DVD
+    		  2x USB 2,0
+		  4x USB 3,0
+		  1x HDMI
+	  
+    Connettivita':  1x Ethernet Port
+    		 
+ +================================================================+
+#desktop-3
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Dilc Green High Plus
+    Tipologia:  Desktop
+    Prezzo:	299,00 euro
+
+    CPU: Intel Quad Core Celeron J1900 @ 2,0GHz (Turbo Boost: 2,42GHz)
+    HDD: 1 TB @ 7200 rpm
+    RAM: 16 GB DDR3L @ 2133MHz
+    GPU: Intel HD Graphics
+
+    SysOp: Windows 10 Home x32
+    
+    Periferiche:  Lettore di Schede SD
+    		  Lettore DVD
+    		  3x USB 2,0
+		  3x USB 3,0
+		  1x HDMI
+		  1x DVI
+		  1x VGA
+		    
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+    		 
+ +================================================================+
+#desktop-4
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Asus K31CLG IT002T
+    Tipologia:  Desktop
+    Prezzo:	357,00 euro
+
+    CPU: Intel Dual Core i3 5005U @ 2,0GHz
+    HDD: 1 TB @ 5400 rpm
+    RAM: 4 GB DDR3L @ 1600MHz
+    GPU: NVIDIA Geforce GT 920MX (2GB GDDR3)
+
+    SysOp: Windows 10 Home x32
+    
+    Periferiche:  Lettore di Schede SD
+    		  Lettore DVD ROM
+    		  2x USB 2,0
+		  6x USB 3,0
+		  1x HDMI
+		    
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+    		 
+ +================================================================+
+#desktop-5
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Hp Slimline 260 A123Nl
+    Tipologia:  Desktop
+    Prezzo:	399,99 euro
+
+    CPU: AMD Quad Core A8 7410 @ 2,2GHz (Turbo Boost: 2,5GHz)
+    HDD: 1 TB @ 7200 rpm
+    RAM: 8 GB DDR3L @ 1600MHz
+    GPU: AMD Radeon R5 Graphics
+
+    SysOp: Windows 10 Home x32
+    
+    Periferiche:  Lettore di Schede SD
+    		  Lettore DVD ROM
+    		  2x USB 2,0
+		  4x USB 3,0
+		  1x HDMI
+		    
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+    		 
+ +================================================================+
+#desktop-6
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Acer Aspire ATC 780A UR12
+    Tipologia:  Desktop
+    Prezzo:	499,00 euro
+
+    CPU: Intel Quad Core i5 7400 @ 3,0GHz (Turbo Boost: 3,5GHz)
+    HDD: 1 TB @ 7200 rpm
+    RAM: 8 GB DDR4 @ 2400MHz
+    GPU: Intel HD Graphics 630
+
+    SysOp: Windows 10 Home x32
+    
+    Periferiche:  Lettore di Schede SD
+    		  Lettore DVD ROM
+    		  4x USB 2,0
+		  3x USB 3,0
+		  1x HDMI
+		  1x VGA
+		    
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+    		 
+ +================================================================+
+#desktop-7
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Hp ProDesk 400 G3
+    Tipologia:  Desktop
+    Prezzo:	929,00 euro
+
+    CPU: Intel Quad Core i7 6700 @ 3,4GHz (Turbo Boost: 4,0GHz)
+    HDD: 1 TB @ 7200 rpm
+    RAM: 8 GB DDR4 @ 2133MHz
+    GPU: Intel HD Graphics 530
+
+    SysOp: Windows 10 Home x32
+    
+    Periferiche:  Lettore di Schede SD
+    		  Super Multi DVD ROM
+    		  4x USB 2,0
+		  2x USB 3,0
+		  1x DisplayPort
+		  2x VGA
+		    
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+    		 
+ +================================================================+
+#desktop-8
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Fujitsu Esprimo E9900
+    Tipologia:  Desktop
+    Prezzo:	218,00 euro
+
+    CPU: Intel Dual Core i3 540 @ 3,1GHz 
+    HDD: 250 GB @ 7200 rpm
+    RAM: 8 GB DDR3 @ 1333MHz
+    GPU: Intel HD Graphics
+
+    SysOp: Windows 10 Pro x32
+    
+    Periferiche:  Lettore di Schede SD
+    		  Super Multi DVD ROM
+    		  4x USB 2,0
+		  2x USB 3,0
+		  1x DVI
+		  3x VGA
+		    
+    Connettivita':  1x Ethernet Port
+    		 
+ +================================================================+
+#desktop-9
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Acer Aspire AXC 230
+    Tipologia:  Desktop
+    Prezzo:	449,00 euro
+
+    CPU: AMD Quad Core A8 7410 @ 2,2GHz (Turbo Boost: 2,5GHz) 
+    HDD: 1 TB @ 7200 rpm
+    RAM: 12 GB DDR3L @ 1600MHz
+    GPU: AMD Radeon R5
+
+    SysOp: Windows 10 Home x32
+    
+    Periferiche:  Lettore di Schede SD
+    		  Super Multi DVD ROM
+    		  6x USB 2,0
+		  2x USB 3,0
+		  1x HDMI
+		  1x DVI
+		    
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+    		 
+ +================================================================+
+#laptop-1
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	HP 250 G5
+    Tipologia:  Laptop
+    Prezzo:	604,99 euro
+
+    CPU: Intel Dual Core i7 7500U @ 2,7GHz (Turbo Boost: 3,5GHz)
+    SSD: 256 GB
+    RAM: 8 GB DDR4 @ 2133MHz
+    GPU: Intel HD 620
+
+    Display: LED 15,6" con risoluzione 1980x1080p (Full HD)
+    Batteria: 4 celle
+    SysOp: Windows 10 Pro x32
+    Peso: 2,0 kg
+    
+    Periferiche:  Lettore di Schede SD
+    		  Super Multi DVD
+    		  2x USB 2,0
+		  1x USB 3,0
+		  1x HDMI
+		  1x VGA
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+
+ +================================================================+
+#laptop-2
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Acer Aspire V5 431P
+    Tipologia:  Laptop
+    Prezzo:	219,36 euro
+
+    CPU: Intel Dual Core Celeron 1007U @ 1,5GHz
+    HDD: 500 GB
+    RAM: 4 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics
+
+    Display: LED 14" con risoluzione 1366x768p (HD)
+    Batteria: 4 celle
+    SysOp: Windows 8,1 Home x32
+    Peso: 2,1 kg
+    
+    Periferiche:  Lettore DVD
+		  2x USB 2,0
+		  1x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+ 		  
+ +================================================================+
+#laptop-3
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Mediacom SmartBook 14
+    Tipologia:  Laptop
+    Prezzo:	184,17 euro
+
+    CPU: Intel Quad Core Atom Z8300 @ 1,4GHz (Turbo Boost: 1,8GHz)
+    SSD: 32 GB (eMMC) 
+    RAM: 2 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics
+
+    Display: LCD 14" con risoluzione 1920x1080p (Full HD)
+    Batteria: 4 celle
+    SysOp: Windows 10 Home x32
+    Peso: 1,4 kg
+    
+    Periferiche:  Lettore DVD
+		  1x USB 2,0
+		  1x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+ 		  
+ +================================================================+
+#laptop-4
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Acer Aspire A315 21 956Y
+    Tipologia:  Laptop
+    Prezzo:	429,00 euro
+
+    CPU: AMD Dual Core A9 9420 @ 3,0GHz (Turbo Boost: 3,4GHz)
+    SSD: 128 GB 
+    RAM: 4 GB DDR4 @ 1600MHz
+    GPU: AMD Radeon R5
+
+    Display: LED 15,6" con risoluzione 1366x768p (HD)
+    Batteria: 4 celle
+    SysOp: Windows 10 Home x32
+    Peso: 2,1 kg
+    
+    Periferiche:  Lettore DVD
+		  2x USB 2,0
+		  1x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+ 		  
+ +================================================================+
+#laptop-5
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Acer VN7 791G
+    Tipologia:  Laptop
+    Prezzo:	905,00 euro
+
+    CPU: Intel Quad Core i7 4720HQ @ 2,6GHz (Turbo Boost: 3,6GHz)
+    HDD: 2 TB @ 7200 rpm
+    RAM: 16 GB DDR3L @ 1600MHz
+    GPU: NVIDIA Geforce GTX 960M (4GB GDDR5)
+
+    Display: LED 17,3" con risoluzione 1920x1080p (Full HD)
+    Batteria: 9 celle
+    SysOp: Windows 8,1 Home x32
+    Peso: 3,0 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  DVD Super 8X Multi DL Drive
+		  2x USB 2,0
+		  2x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+ 		  
+ +================================================================+
+#laptop-6
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Samsung 5 NP530U3B
+    Tipologia:  Laptop
+    Prezzo:	400,00 euro
+
+    CPU: Intel Dual Core i5 2467M @ 1,6GHz (Turbo Boost: 2,3GHz)
+    HDD: 500 GB @ 7200 rpm
+    RAM: 4 GB DDR3 @ 1333MHz
+    GPU: Intel HD Graphics 3000
+
+    Display: LED 13,3" con risoluzione 1366x768p (HD)
+    Batteria: 4 celle
+    SysOp: Windows 7 Home x64
+    Peso: 1,4 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  DVD Super 8X Multi DL Drive
+		  1x USB 3,0
+		  2x USB 2,0
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+ 		  
+ +================================================================+
+#laptop-7
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Dell Vostro 15 3558
+    Tipologia:  Laptop
+    Prezzo:	302,50 euro
+
+    CPU: Intel Dual Core Pentium 3825U @ 1,9GHz
+    HDD: 500 GB @ 7200 rpm
+    RAM: 4 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics
+
+    Display: LED 15,6" con risoluzione 1366x768p (HD)
+    Batteria: 4 celle
+    SysOp: Windows 10 Home x64
+    Peso: 2,2 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  DVD Super 8X Multi DL Drive
+		  2x USB 2,0
+		  1x USB 3,0
+		  1x HDMI
+		  1x VGA
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+	  
+ +================================================================+
+#laptop-8
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Asus ZenBook UX310UQ GL379T
+    Tipologia:  Laptop
+    Prezzo:	829,01 euro
+
+    CPU: Intel Dual Core i7 7500U @ 2,7GHz (Turbo Boost: 3,5GHz)
+    SSD: 512 GB
+    RAM: 8 GB DDR4 @ 2133MHz
+    GPU: NVIDIA Geforce GT 940MX (2GB GDDR3)
+
+    Display: LED 13,3" con risoluzione 1920x1080p (Full HD)
+    Batteria: 9 celle
+    SysOp: Windows 10 Home x64
+    Peso: 1,5 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  DVD Super 8X Multi DL Drive
+		  2x USB 2,0
+		  1x USB 3,0
+		  1x HDMI
+		  1x VGA
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+	  
+ +================================================================+
+#laptop-9
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Lenovo IdeaPad 100
+    Tipologia:  Laptop
+    Prezzo:	388,38 euro
+
+    CPU: Intel Dual Core i3 5005U @ 2,0GHz 
+    HDD: 500 GB @ 5400 rpm
+    RAM: 4 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics 5500
+
+    Display: LED 15,6" con risoluzione 1366x768p (HD)
+    Batteria: 4 celle
+    SysOp: Windows 10 Home x32
+    Peso: 1,5 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  DVD Super Multi
+		  1x USB 2,0
+		  1x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+
+ +================================================================+
+#laptop-10
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Apple Macbook White
+    Tipologia:  Laptop
+    Prezzo:	223,00 euro
+
+    CPU: Intel Dual Core 2 Duo @ 2,4GHz 
+    HDD: 160 GB @ 5400 rpm
+    RAM: 2 GB DDR2 @ 667MHz
+    GPU: Intel GMA X3100
+
+    Display: LCD 13,3" con risoluzione 1280x800p (HD)
+    Batteria: 4 celle
+    SysOp: Mac OS X 10,5 Leopard
+    Peso: 2,3 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  DVD Super Multi
+		  2x USB 2,0
+		  1x VGA
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+
+ +================================================================+
+#laptop-11
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Dell Latitude E6520
+    Tipologia:  Laptop
+    Prezzo:	499,00 euro
+
+    CPU: Intel Dual Core i5 2540M @ 2,6GHz (Turbo Boost: 3,3GHz) 
+    SSD: 256 GB 
+    RAM: 8 GB DDR3 @ 1333MHz
+    GPU: Intel HD Graphics 3000
+
+    Display: LED 15,6" con risoluzione 1900x600p (HD)
+    Batteria: 4 celle
+    SysOp: Windows 10 Home x32
+    Peso: 1,5 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  DVD Multi
+		  1x USB 2,0
+		  1x USB 3,0
+		  1x HDMI
+		  1x VGA
+		  1x eSata
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+
+ +================================================================+
+#laptop-ultrabook-1
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Toshiba Tecra Z50 A 18C
+    Tipologia:  Ultrabook
+    Prezzo:	979,18 euro
+
+    CPU: Intel Dual Core i7 4600U @ 2,1GHz (Turbo Boost: 3,3GHz)
+    SSD: 256 GB
+    RAM: 8 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics 4400
+
+    Display: LED 15,6" con risoluzione 1920x1080p (Full HD)
+    Batteria: 6 celle,
+    SysOp: Windows 8,1 Pro x64
+    Peso: 1,8 kg
+    
+    Periferiche:  Lettore di Schede SD
+		  1x USB 2,0
+		  3x USB 3,0
+		  1x HDMI
+		  1x VGA
+		  1x Slot Smartcard
+
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+ 		  
+ +================================================================+
+#laptop-ultrabook-2
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Asus P2530UA XO0119D
+    Tipologia:  Ultrabook
+    Prezzo:	414,71 euro
+
+    CPU: Intel Dual Core i5 6200U @ 2,3GHz (Turbo Boost: 2,8GHz)
+    HDD: 500 GB @ 5400 rpm
+    RAM: 4 GB DDR4 @ 2133MHz
+    GPU: Intel HD 5500 Graphics
+
+    Display: LED 15,6" con risoluzione 1366x768p (HD)
+    Batteria: 4 celle
+    SysOp: Windows 10 Home x64
+    Peso: 2,4 kg
+    
+    Periferiche:  Lettore di Schede SD 
+		  Lettore DVD RW
+		  1x USB 2,0
+		  3x USB 3,0
+		  1x HDMI
+		  1x VGA
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+ 		  
+ +================================================================+
+#laptop-ultrabook-3
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Toshiba Portege Z30t C 11R
+    Tipologia:  Ultrabook
+    Prezzo:	1962,91 euro
+
+    CPU: Intel Dual Core i7 6500U @ 2,5GHz (Turbo Boost: 3,1GHz)
+    SSD: 256 GB
+    RAM: 8 GB DDR3L @ 1600MHz
+    GPU: Intel HD 520 Graphics
+
+    Display: LED 13,3" con risoluzione 1920x1080p (Full HD) Touch
+    Batteria: 9 celle,
+    SysOp: Windows 7 Pro x64
+    Peso: 1,4 kg
+    
+    Periferiche:  Lettore di Schede SD 
+		  3x USB 3,0
+		  1x HDMI
+		  1x VGA
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11 , 4G
+		    Bluetooth
+ 		  
+ +================================================================+
+#laptop-ultrabook-4
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Acer Aspire A315 21 956Y
+    Tipologia:  Ultrabook
+    Prezzo:	429,00 euro
+
+    CPU: AMD Dual Core A9 9420 @ 3,0GHz (Turbo Boost: 3,6GHz)
+    SSD: 128 GB
+    RAM: 4 GB DDR4 @ 2133MHz
+    GPU: Intel HD 520 Graphics
+
+    Display: LED 15,6" con risoluzione 1366x768p (HD) 
+    Batteria: 4 celle
+    SysOp: Windows 10 Home x64
+    Peso: 2,1 kg
+    
+    Periferiche:  Lettore di Schede SD 
+		  2x USB 2,0
+		  1x USB 3,0
+		  1x HDMI
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    
+ +================================================================+
+#laptop-ultrabook-5
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Acer TravelMate P648 G2 M 52D5
+    Tipologia:  Ultrabook
+    Prezzo:	1289,00 euro
+
+    CPU: Intel Dual Core i5 7200U @ 2,5GHz (Turbo Boost: 3,6GHz)
+    SSD: 256 GB
+    RAM: 8 GB DDR4 @ 2133MHz
+    GPU: Intel HD 620 Graphics
+
+    Display: LED 14" con risoluzione 1920x1080p (Full HD) 
+    Batteria: 9 celle
+    SysOp: Windows 10 Home x64
+    Peso: 2,6 kg
+    
+    Periferiche:  Lettore di Schede SD 
+		  2x USB 2,0
+		  3x USB 3,0
+		  1x USB C
+		  1x HDMI
+		  1x VGA
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    
+ +================================================================+
+#laptop-ultrabook-6
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	HP Pavilion x2 10 n105nl
+    Tipologia:  Ultrabook
+    Prezzo:	374,25 euro
+
+    CPU: Intel Quad Core Atom Z8300 @ 1,4GHz (Turbo Boost: 1,8GHz)
+    SSD: 32 GB (eMMC)
+    RAM: 2 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics
+
+    Display: WLED 10,1" con risoluzione 1280x800p (HD) Touch
+    Batteria: 4 celle
+    SysOp: Windows 10 Home x64
+    Peso: 1,1 kg
+    
+    Periferiche:  Lettore di Schede SD 
+		  1x USB 2,0
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    
+ +================================================================+
+#laptop-ultrabook-7
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Dell Precision 5510
+    Tipologia:  Ultrabook
+    Prezzo:	2711,68 euro
+
+    CPU: Intel Quad Core i7 6820HQ @ 2,7GHz (Turbo Boost: 3,6GHz)
+    SSD: 500 GB 
+    RAM: 8 GB DDR4 @ 2133MHz
+    GPU: Intel HD Graphics 530
+
+    Display: LED 10,1" con risoluzione 3840x2160p (4K) 
+    Batteria: 9 celle
+    SysOp: Windows 10 Home x64
+    Peso: 5,0 kg
+    
+    Periferiche:  Lettore di Schede SD 
+		  2x USB 3,0
+		  1x HDMI
+
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    
+ +================================================================+
+#laptop-ultrabook-8
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Lenovo ThinkPad Helix 36984SU
+    Tipologia:  Ultrabook
+    Prezzo:	630,15 euro
+
+    CPU: Intel Quad Core i7 3667U @ 2,0GHz (Turbo Boost: 3,2GHz)
+    SSD: 256 GB 
+    RAM: 8 GB DDR3 @ 1600MHz
+    GPU: Intel HD Graphics 4000
+
+    Display: LED 11,6" con risoluzione 1920x1080p (Full HD) Touch
+    Batteria: 6 celle
+    SysOp: Windows 8 Home x64
+    Peso: 0,5 kg
+    
+    Periferiche:  Lettore di Schede SD 
+		  1x USB 2,0
+		  2x USB 3,0
+		  1x HDMI
+
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    
+ +================================================================+
+#laptop-tablet-1
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Samsung Galaxy Tab S3 
+    Tipologia:  Tablet
+    Prezzo:	799,00 euro
+
+    CPU: Quad Core (2x 2,15GHz + 2x 1,6GHz)
+    HDD: 32 GB
+    RAM: 4 GB
+    GPU: Adreno 530
+        
+    Display: Super AMOLED 9,7" con risoluzione 2048x1536 (Quad Full HD)
+    Batteria: 6000 mAh (12 ore)
+    SysOp: Android 7
+    Peso: 0,4 kg
+    		  
+    Periferiche:  Lettore di Schede MicroSD
+ 	          Lettore Impronte Digitali
+	          1x USB 3,1
+	          Fotocamera Anteriore 5 MPixel (CMOS)
+	          Fotocamera Posteriore 13 Mpixel (CMOS)
+	         
+    Connettivita':  Wireless, 4G
+	            Bluetooth
+		
+ 		  
+ +================================================================+
+#laptop-tablet-2
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Samsung Galaxy Tab A 2016
+    Tipologia:  Tablet
+    Prezzo:	219,00 euro
+
+    CPU: Quad Core Cortex A7 @ 1,5GHz
+    HDD: 8 GB
+    RAM: 1,5 GB
+    GPU: Mali 400MP2 
+   
+    Display: IPS LCD 7" con risoluzione 1280x800 (HD)
+    Batteria: 4000 mAh (9 ore)
+    SysOp: Android 5,1
+    Peso: 0,3 kg
+    		  
+    Periferiche:  Lettore di Schede MicroSD
+ 	          1x USB 2,0
+   	          Fotocamera Anteriore 2 MPixel (CMOS)
+	          Fotocamera Posteriore 5 MPixel (CMOS)
+	       
+    Connettivita':  Wireless, 4G
+	            Bluetooth
+		  
+ +================================================================+
+#laptop-tablet-3
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Samsung Galaxy Tab E 
+    Tipologia:  Tablet
+    Prezzo:	179,00 euro
+
+    CPU: Quad Core @ 1,3GHz
+    HDD: 8 GB
+    RAM: 1,5 GB
+        
+    Display: TFT 9,6" con risoluzione 1280x800 (HD)
+    Batteria: 5000 mAh (7 ore)
+    SysOp: Android 5,1
+    Peso: 0,4 kg
+    		  
+    Periferiche:  Lettore di Schede MicroSD
+ 	          1x USB 2,0
+	          Fotocamera Anteriore 2 MPixel (CMOS)
+	          Fotocamera Posteriore 5 MPixel (CMOS)
+
+    Connettivita':  Wireless
+	            Bluetooth
+			  
+ +================================================================+
+#laptop-tablet-4
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Huawei MediaPad T1 8,0
+    Tipologia:  Tablet
+    Prezzo:	149,00 euro
+
+    CPU: Quad Core Snapdragon 200 @ 1,2GHz
+    HDD: 8 GB
+    RAM: 1 GB
+        
+    Display: IPS LCD 8,0" con risoluzione 1280x800 (HD)
+    Batteria: 4800 mAh (7 ore)
+    SysOp: Android 4,3 + EMUI 1,6
+    Peso: 0,4 kg
+    		  
+    Periferiche:  Lettore di Schede MicroSD
+ 	          1x USB 2,0
+	          Fotocamera Anteriore 0,3 MPixel
+	          Fotocamera Posteriore 5 Mpixel
+	       
+    Connettivita':  Wireless, 3G
+	            Bluetooth
+ 		  
+ +================================================================+
+#laptop-tablet-5
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Huawei MediaPad T2 10,0 Pro
+    Tipologia:  Tablet
+    Prezzo:	239,00 euro
+
+    CPU: Octa Core Qualcomm S616 (4x 1,5GHz + 4x 1,2GHz)
+    HDD: 16 GB
+    RAM: 2 GB
+    GPU: Adreno 405
+
+    Display: IPS LCD 10,1" con risoluzione 1920x1200 (Full HD)
+    Batteria: 6660 mAh (8 ore)
+    SysOp: Android 5,1 + EMUI 3,1
+    Peso: 0,5 kg
+    		  
+    Periferiche:  Lettore di Schede MicroSD
+ 	          1x USB 2,0
+	          Fotocamera Anteriore 2 MPixel
+	          Fotocamera Posteriore 8 Mpixel
+	       
+    Connettivita':  Wireless, 4G
+	            Bluetooth
+		  
+ +================================================================+
+#laptop-tablet-6
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Huawei MediaPad M3 Lite 10
+    Tipologia:  Tablet
+    Prezzo:	799,00 euro
+
+    CPU: Octa Core Cortex A53 @ 1,4GHz
+    HDD: 32 GB
+    RAM: 3 GB
+        
+    Display: IPS 10,1" con risoluzione 1920x1200 (Full HD)
+    Batteria: 6000 mAh (8 ore)
+    SysOp: Android 7,0 + EMUI 5,1
+    Peso: 0,5 kg
+    		  
+    Periferiche:  Lettore di Schede MicroSD
+ 	          1x USB 2,0
+	          Fotocamera Anteriore 8 MPixel
+	          Fotocamera Posteriore 8 MPixel
+	       
+    Connettivita':  Wireless, 4G
+	            Bluetooth
+		  
+ +================================================================+
+#laptop-tablet-7
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Asus ZenPad 8,0
+    Tipologia:  Tablet
+    Prezzo:	179,00 euro
+
+    CPU: Quad Core Qualcomm 8916 @ 1,2GHz
+    HDD: 16 GB
+    RAM: 1 GB
+        
+    Display: IPS 8,0" con risoluzione 1280x800 (HD)
+    Batteria: 4000 mAh (6 ore)
+    SysOp: Android 5
+    Peso: 0,4 kg
+    		  
+    Periferiche:  Lettore di Schede MicroSD
+ 	          1x USB 2,0
+	          Fotocamera Anteriore 2 MPixel
+	          Fotocamera Posteriore 5 Mpixel
+	       
+    Connettivita':  Wireless, 4G
+	            Bluetooth
+		 		  
+ +================================================================+
+#laptop-tablet-8
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Asus ZenPad C 7,0
+    Tipologia:  Tablet
+    Prezzo:	129,00 euro
+
+    CPU: Quad Core Intel Atom x3 C3200 @ 1,2GHz
+    HDD: 16 GB
+    RAM: 1 GB
+        
+    Display: IPS 7,0" con risoluzione 1024x600 (HD)
+    Batteria: 3450 mAh (5 ore)
+    SysOp: Android 5
+    Peso: 0,3 kg
+    		  
+    Periferiche:  Lettore di Schede MicroSD
+ 	          1x USB 2,0
+	          Fotocamera Anteriore 0,3 MPixel
+	          Fotocamera Posteriore 2 Mpixel
+	       
+    Connettivita':  Wireless, 3G
+	            Bluetooth
+		
+ +================================================================+
+#laptop-tablet-9
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Asus ZenPad S 8,0
+    Tipologia:  Tablet
+    Prezzo:	299,00 euro
+
+    CPU: Quad Core Intel Atom Z3580 @ 2,3GHz
+    HDD: 64 GB
+    RAM: 4 GB
+        
+    Display: IPS 8,0" con risoluzione 2048x1536 (Quad Full HD)
+    Batteria: 4000 mAh (7 ore)
+    SysOp: Android 5
+    Peso: 0,3 kg
+    		  
+    Periferiche:  Lettore di Schede MicroSD
+ 	          1x USB 3,1
+	          Fotocamera Anteriore 5 MPixel
+	          Fotocamera Posteriore 8 Mpixel
+	       
+    Connettivita':  Wireless
+	            Bluetooth
+		
+ +================================================================+
+#laptop-tablet-10
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Mediacom SmartPad iPro 110L
+    Tipologia:  Tablet
+    Prezzo:	149,00 euro
+
+    CPU: Quad Core Intel Atom Z3735F @ 1,83GHz
+    HDD: 16 GB
+    RAM: 2 GB
+        
+    Display: IPS 10,1" con risoluzione 1920x1200 (Full HD)
+    Batteria: 6800 mAh (7 ore)
+    SysOp: Android 5,1
+    Peso: 0,5 kg
+    		  
+    Periferiche:  Lettore di Schede MicroSD
+ 	          1x USB 2,0
+	          Fotocamera Anteriore 2 MPixel
+	          Fotocamera Posteriore 5 Mpixelx
+	       
+    Connettivita':  Wireless, 3G
+	            Bluetooth
+		
+ +================================================================+
+#laptop-tablet-11
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Mediacom SmartPad Hx 8 HD
+    Tipologia:  Tablet
+    Prezzo:	95,00 euro
+
+    CPU: Quad Core MT8321AB @ 1,3GHz
+    HDD: 16 GB
+    RAM: 1 GB
+        
+    Display: IPS 8,0" con risoluzione 1280x800 (HD)
+    Batteria: 4000 mAh (6 ore)
+    SysOp: Android 6
+    Peso: 0,4 kg
+    		  
+    Periferiche:  Lettore di Schede MicroSD
+ 	          1x USB 2,0
+	          Fotocamera Anteriore 0,3 MPixel
+	          Fotocamera Posteriore 2 Mpixel
+	       
+    Connettivita':  Wireless, 3G
+	            Bluetooth
+		  
+ +================================================================+
+#laptop-tablet-12
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Mediacom SmartPad S2 10,1
+    Tipologia:  Tablet
+    Prezzo:	99,00 euro
+
+    CPU: Quad Core @ 1,2GHz
+    HDD: 16 GB
+    RAM: 1 GB
+        
+    Display: IPS 10,1" con risoluzione 1024x600 (HD)
+    Batteria: 5000 mAh (5 ore)
+    SysOp: Android 5,1
+    Peso: 0,6 kg
+    		  
+    Periferiche:  Lettore di Schede MicroSD
+ 	          1x USB 2,0
+	          Fotocamera Anteriore 0,3 MPixel
+	          Fotocamera Posteriore 2 Mpixel
+	       
+    Connettivita':  Wireless
+	            Bluetooth
+		  
+ +================================================================+
+#laptop-tablet-13
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Mediacom SmartPad Go 7
+    Tipologia:  Tablet
+    Prezzo:	49,00 euro
+
+    CPU: Quad Core Cortex A7 @ 1,3GHz
+    HDD: 8 GB
+    RAM: 0,5 GB
+        
+    Display: IPS TFT 7,0" con risoluzione 1280x800 (HD)
+    Batteria: 2500 mAh (5 ore)
+    SysOp: Android 4,4
+    Peso: 0,3kg
+    		  
+    Periferiche:  Lettore di Schede MicroSD
+ 	          1x USB 2,0
+	          Fotocamera Anteriore 0,3 MPixel
+	          Fotocamera Posteriore 0,3 Mpixel
+	       
+    Connettivita':  Wireless
+	            Bluetooth
+		
+ +================================================================+
+#laptop-tablet-14
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Mediacom SmartPad Mx 7
+    Tipologia:  Tablet
+    Prezzo:	85,00 euro
+
+    CPU: Quad Core Mediatek @ 1,1GHz
+    HDD: 16 GB
+    RAM: 1 GB
+        
+    Display: IPS TFT 7,0" con risoluzione 1024x600 (HD)
+    Batteria: 2500 mAh (5 ore)
+    SysOp: Android 6
+    Peso: 0,3kg
+    		  
+    Periferiche:  Lettore di Schede MicroSD
+ 	          1x USB 2,0
+	          Fotocamera Anteriore 2 MPixel
+	          Fotocamera Posteriore 5 Mpixel
+	       
+    Connettivita':  Wireless, 4G
+	            Bluetooth
+		  
+ +================================================================+
+#laptop-toughbook-1
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Panasonic Toughbook CF19 MK5
+    Tipologia:  Toughbook
+    Prezzo:	510,00 euro
+
+    CPU: Intel Dual Core i5 2520M @ 2,5GHz (Turbo Boost: 3,2GHz)
+    HDD: 320 GB @ 5400 rpm
+    RAM: 4 GB DDR3 @ 1333MHz
+    GPU: Intel HD Graphics 3000
+
+    Display: LCD 10,1" con risoluzione 1024x768p (HD) Touch
+    Batteria: 2x 9 celle,
+    SysOp: Windows 10 Enterprise x32
+    Peso: 2,3 kg
+    
+    Periferiche:  Lettore di Schede SD 
+		  Lettore DVD
+		  2x USB 2,0
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+ 		  
+ +================================================================+
+#laptop-toughbook-2
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Panasonic Toughbook CF 53 MK2 Outdoor
+    Tipologia:  Toughbook
+    Prezzo:	1050,00 euro
+
+    CPU: Intel Dual Core i5 3320M @ 2,6GHz (Turbo Boost: 3,3GHz)
+    HDD: 500 GB @ 5400 rpm
+    RAM: 4 GB DDR3 @ 1600MHz
+    GPU: Intel HD Graphics 4000
+
+    Display: LED 14,1" con risoluzione 1366x768p (HD) Touch
+    Batteria: 2x 9 celle,
+    SysOp: Windows 7 Pro x64
+    Peso: 3,0 kg
+    
+    Periferiche:  Lettore di Schede SD 
+		  Lettore DVD
+		  3x USB 2,0
+		  1x VGA
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11
+		    Bluetooth
+ 		  
+ +================================================================+
+#laptop-toughbook-3
+ +===<  Configurazione Finale  >==================================+
+ 
+    Modello: 	Panasonic Toughbook CF 19 MK8
+    Tipologia:  Toughbook
+    Prezzo:	3390,00 euro
+
+    CPU: Intel Dual Core i5 3610ME @ 2,7GHz (Turbo Boost: 3,3GHz)
+    HDD: 500 GB @ 7200 rpm
+    RAM: 4 GB DDR3L @ 1600MHz
+    GPU: Intel HD Graphics 4000
+
+    Display: LED 10,1" con risoluzione 1024x768p (HD) Touch
+    Batteria: 2x 9 celle,
+    SysOp: Windows 8,1 Pro x64
+    Peso: 3,0 kg
+    
+    Periferiche:  Lettore di Schede SD 
+		  2x USB 2,0
+		  1x USB 3,0
+		  
+    Connettivita':  1x Ethernet Port
+		    Wireless 802,11 , 4G
+		    Bluetooth
+ 		  
+ +================================================================+
