@@ -27,12 +27,6 @@ The architecture of the system is very modular and divides into several parts:
 
 ![architecture](resources/architecture.jpg)
 
-## Usage
-
-Use script "run.bat" to run the system.
-
-Change the correspondant value in the file "load.clp" to run the debugging mode of the system.
-
 ## Authors
 
 All the following authors have equally contributed to this project (listed in alphabetical order by surname):
